@@ -28,7 +28,7 @@ It helps in practicing **core JavaScript concepts** for coding interviews and pr
 
 ## ✅ Progress Tracker
 - [x] Day 1: Q1 – Q5
-- [ ] Day 2: Q6 – Q10
+- [x] Day 2: Q6 – Q10
 - [ ] Day 3: Q11 – Q15
 - [ ] Day 4: Q16 – Q20
 - [ ] Day 5: Q21 – Q25
