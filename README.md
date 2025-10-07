@@ -5,7 +5,7 @@ I am solving **5 questions daily** and pushing them here to track my progress an
 
 
 
-## 🔎 About
+## About
 These problems cover **basic to intermediate** JavaScript concepts including:
 - Variables & Operators
 - Strings & Arrays
@@ -19,14 +19,14 @@ The goal is to **strengthen core JavaScript knowledge** and prepare for technica
 
 ---
 
-# 🚀 JavaScript 30 Questions
+# JavaScript 30 Questions
 
 This repository contains my solutions to **30 JavaScript problems**, solved daily (5 per day).  
 It helps in practicing **core JavaScript concepts** for coding interviews and problem-solving.
 
 ---
 
-## ✅ Progress Tracker
+##  Progress Tracker
 - [x] Day 1: Q1 – Q5
 - [x] Day 2: Q6 – Q10
 - [x] Day 3: Q11 – Q15
