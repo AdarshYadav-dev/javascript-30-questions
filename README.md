@@ -13,7 +13,7 @@ These problems cover **basic to intermediate** JavaScript concepts including:
 - Sorting & Searching
 - Objects & Closures
 - Promises & Async/Await
-- Event-driven programming
+- Event-driven programming.
 
 The goal is to **strengthen core JavaScript knowledge** and prepare for technical interviews.
 
