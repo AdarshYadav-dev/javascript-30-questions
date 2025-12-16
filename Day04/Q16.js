@@ -14,8 +14,8 @@ function reverseWords(str) {
     for (let i = str.length - 1; i >= 0; i--) {
 
         if (str[i] !== " ") {
-            word = str[i] + word;  
-        } 
+            word = str[i] + word;
+        }
         else {
             if (word.length > 0) {
                 result += word + " ";
