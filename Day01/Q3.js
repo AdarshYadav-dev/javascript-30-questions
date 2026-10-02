@@ -5,12 +5,24 @@
 
 
 
+// function check(num){
+//     if(num%2 === 0){
+//         return "even number"
+//     }else{
+//         return "odd number"
+//     }
+// }
+
+// console.log(check(12))
+
+
 function check(num){
     if(num%2 === 0){
         return "even number"
     }else{
         return "odd number"
     }
+
 }
 
-console.log(check(12))
+console.log(check(7))
